@@ -1,1 +1,1 @@
-print('Hello template repo')
+print('Hello template repo :)')
